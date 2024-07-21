@@ -175,3 +175,12 @@ footer p, footer nav {
 }
 
 footer nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+footer nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
